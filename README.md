@@ -27,3 +27,7 @@ Here, java swing is used for frontend where photos are displayed. The path of th
 # Output
 Given below is the GUI screen of photo gallery in Java Swing.
 ![Capture](https://user-images.githubusercontent.com/65729151/82688817-23917d00-9c77-11ea-83c2-9a15dfa10baa.PNG)
+
+# Author
++ [Nancy Radadia](https://github.com/nancyradadia)
++ [Dhatri Kapuriya](https://github.com/dhatrikapuriya)
